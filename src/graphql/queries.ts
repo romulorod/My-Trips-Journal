@@ -58,6 +58,7 @@ export const GET_PlACE_BY_SLUG = gql`
       }
       description {
         html
+        text
       }
       gallery {
         width
